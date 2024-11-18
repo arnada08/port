@@ -47,7 +47,7 @@ body {
     transform: scale(1.4);
 }
 
-.wave:nth-child(3) ft: -10%;
+.wave:nth-child(3) {font-stretch:  -10%;
     opacity: 0.4;
     animation-delay: 6s;
     transform: scale(1.6);
